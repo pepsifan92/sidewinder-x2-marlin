@@ -1,9 +1,10 @@
+## This fork 
+Changed the marlin version from a bugfix-branch to main branch 2.1.2, see in commits. This should be a stable one and I get no warning about an experimental version of marlin in Octoprint anymore. Therefore the config files were fixed at some namings and stuff...
+
 # Marlin for Artillery Sidewinder X2
 [![Artillery3d Repo](https://img.shields.io/badge/Artillery%20Version-v2.0.9.1-blue)](https://github.com/artillery3d/sidewinder-x2-firmware)
-[![Marlin Repo](https://img.shields.io/github/v/release/MarlinFirmware/Marlin?label=%20Marlin%20Version)](https://github.com/MarlinFirmware/Marlin)
+[![Marlin Repo](https://img.shields.io/badge/Marlin%20Version-v2.1.2-blue)](https://github.com/MarlinFirmware/Marlin)
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/pp8mnskrg2f)
-
-
 
 The stock firmware on the Artillery Sidewinder X2 is [Marlin](https://github.com/MarlinFirmware/Marlin), however [Artillery's version](https://github.com/artillery3d/sidewinder-x2-firmware) is out of date and missing some useful features.
 
