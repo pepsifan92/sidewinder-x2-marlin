@@ -1,4 +1,5 @@
-## This fork 
+## DO NOT USE! Issues with extruder temperature stability! For any reason I had no chance to get a stable, constant hotend temperature. Use stock FW or the markrossington FW, there I dont experienced this issues...
+## This fork
 Changed the marlin version from a bugfix-branch to main branch 2.1.2, see in commits. This should be a stable one and I get no warning about an experimental version of marlin in Octoprint anymore. Therefore the config files were fixed at some namings and stuff...
 
 # Marlin for Artillery Sidewinder X2
